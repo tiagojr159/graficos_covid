@@ -1,0 +1,2297 @@
+
+            
+
+        2019-03-09 04:22:30	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('90','thumbnail_1552101731.jpg','P')
+            
+
+        2019-03-09 04:23:11	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '90', 'C' )
+            
+
+        2019-03-16 13:39:44	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '256', 'C' )
+            
+
+        2019-03-16 13:42:44	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '270', 'C' )
+            
+
+        2019-03-16 13:44:00	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '202', 'C' )
+            
+
+        2019-03-16 13:48:12	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '163', 'C' )
+            
+
+        2019-03-16 13:54:43	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rosimery da conceição','','','91347565','81947992','Ensino médio','rua beira mar 2, 22','beira mar','Igarasssu','Feminino','','pedro manoel dos santos','luciana antonio da conceição vicente','','','','27/07/1984','Ator','','','','','','','')
+            
+
+        2019-03-16 13:54:43	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '316', 'C' )
+            
+
+        2019-03-16 13:56:47	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rosimery da conceição','','','91347565','81947992','Ensino médio','rua beira mar 2, 22','beira mar','Igarasssu','Feminino','','pedro manoel dos santos','luciana antonio da conceição vicente','','','','27/07/1984','Ator','','','','','','','')
+            
+
+        2019-03-16 13:56:47	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '317', 'C' )
+            
+
+        2019-03-16 13:57:24	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rosimery da conceição','','','91347565','81947992','Ensino médio','rua beira mar 2, 22','beira mar','Igarasssu','Feminino','','pedro manoel dos santos','luciana antonio da conceição vicente','','','','27/07/1984','Ator','','','','','','','')
+            
+
+        2019-03-16 13:57:24	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '318', 'C' )
+            
+
+        2019-03-16 13:59:35	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rosimery da conceição','','','91347565','81947992','Ensino médio','rua beira mar 2, 22','beira mar','Igarasssu','Feminino','','pedro manoel dos santos','luciana antonio da conceição vicente','','','','27/07/1984','Ator','','','','','','','')
+            
+
+        2019-03-16 13:59:35	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '319', 'C' )
+            
+
+        2019-03-16 14:00:32	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rosimery da conceição','0','','91347565','81947992','Ensino médio','rua beira mar 2, 22','beira mar','Igarasssu','Feminino','','pedro manoel dos santos','luciana antonio da conceição vicente','','','','27/07/1984','Ator','','','','','','','')
+            
+
+        2019-03-16 14:00:32	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '320', 'C' )
+            
+
+        2019-03-16 14:03:01	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '316', 'C' )
+            
+
+        2019-03-16 14:11:26	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('emily vitoria alves de freitas','0','','88543148','84889676','3 ano ensino medio','rua joao santos filho, 36','nova cruz','Igarasssu','Feminino','','jonas antero de freitas','noemia alves feitosa','assembleia de Deus
+
+o problema é o transporte que mora muito longe
+
+é cristã
+
+
+
+
+
+','nunca fez paixão de cristo','','09/05/2002','Ator','','','NOEMIA ALVES FEITOSA','','','','16')
+            
+
+        2019-03-16 14:11:26	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '321', 'C' )
+            
+
+        2019-03-16 14:17:36	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('stefany faustino da silva','0','stefanyfaustinopc2018@gmail.com','','84362162','Ensino médio','','são marcos','Igarasssu','Feminino','','gilson gomes da silva','maria josefa faustino','catolica
+tem eucaristia
+
+
+
+
+
+','nunca fez paixão de cristo','','30/03/2000','Ator','','','','','','','')
+            
+
+        2019-03-16 14:17:36	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '322', 'C' )
+            
+
+        2019-03-16 14:23:12	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('anderson martins de souza','0','andersonbcgu@gmail','71210635','92930201','Ensino médio','rua agel','ana de abuquerque','Igarasssu','Masculino','','adielson nascimento de souza','damiana cristina martins da silva','assembleia de Deus
+
+','nunca fez paixão de cristo','','18/11/1999','Ator','133.697.604-79','9420789','','','','','19')
+            
+
+        2019-03-16 14:23:12	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '323', 'C' )
+            
+
+        2019-03-16 14:37:23	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('bruna rafaelly rodrigues dos santos','0','brunarafaellyrodrigues@gmail.com','991576596','991290850','Bacharel em Turisma','rua sabino leite pessoa','saramandaia','Igarasssu','Feminino','','','','igreja casa da benção 
+hadassa, não participa mais desse grupo
+
+
+Superior completo
+
+Facottur
+','nunca fez paixão de cristo','','08/04/1998','Ator','701.600.994-71','9376570','','','','','0')
+            
+
+        2019-03-16 14:37:23	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '324', 'C' )
+            
+
+        2019-03-16 14:40:47	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '222', 'C' )
+            
+
+        2019-03-16 14:58:32	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Ednilson silva de oliveira','','','85855895','87745480','Ensino médio','rua manacial, 8A','santa rita','Igarasssu','Masculino','','marcos manoel de oliveira','edilene silva dos santos','frequentou a igreja catolica
+fez primeira comunhão
+
+
+
+
+','nunca fez paixão de cristo','','08/07/1995','Ator','111.714.684-74','9190498','','','','','0')
+            
+
+        2019-03-16 14:58:32	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '325', 'C' )
+            
+
+        2019-03-16 14:58:58	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Ednilson silva de oliveira','0','','85855895','87745480','Ensino médio','rua manacial, 8A','santa rita','Igarasssu','Masculino','','marcos manoel de oliveira','edilene silva dos santos','frequentou a igreja catolica
+fez primeira comunhão
+
+
+
+
+','nunca fez paixão de cristo','','08/07/1995','Ator','111.714.684-74','9190498','','','','','0')
+            
+
+        2019-03-16 14:58:58	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '326', 'C' )
+            
+
+        2019-03-16 15:05:02	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('thais cunha de lima','0','thaiscunha1717@gmail.com','89861216','','Ensino médio','tv. quinta bispo eliseu','manacial','Igarasssu','Masculino','','','','catolica
+EJC','nunca fez paixão de cristo','','1710/1999','Ator','136.424.624-48','9753405','','','','','')
+            
+
+        2019-03-16 15:05:02	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '327', 'C' )
+            
+
+        2019-03-16 15:08:58	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('mireli fernanda felix dos santos lima','0','mirelisantos1534@gmail.com','91116580','92357224','Ensino médio','rua 2tv. bu da peste','bela vista','Igarasssu','Feminino','','givandir feliz de lima','andrea maria dos santos','ja frequentou a igreja assembleia e igreja apotolica','nunca fez paixão de cristo','','21/10/2000','Ator','141.604.134-63','10410238','','','','','')
+            
+
+        2019-03-16 15:08:58	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '328', 'C' )
+            
+
+        2019-03-16 15:10:35	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '289', 'C' )
+            
+
+        2019-03-16 15:14:26	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('artur vitor francisco da silva','0','arturppf2017@gmail.com','994517188','984268181','','rua jardim tocantira, 38','santa rita','Igarasssu','Masculino','','','','ja frequentou a igreja assembleia de Deus
+
+
+','nunca fez paixão de cristo','','11/07/1999','Ator','125.581.264-82','9941585','','','','','')
+            
+
+        2019-03-16 15:14:26	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '329', 'C' )
+            
+
+        2019-03-16 15:20:09	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('filipe emanoel azevedo da silva','0','azevedofilipe505@gmail.com','','96631309','Ensino médio','rua santa ana, 255','centro','Igarasssu','Masculino','','cicero jose da silva','sonia maria presciliano de azevedo','igreja universal','nunca fez paixão de cristo','','06/04/2001','Ator','','','','','','','')
+            
+
+        2019-03-16 15:20:10	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '330', 'C' )
+            
+
+        2019-03-16 15:23:29	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('cristiani da cunha silva','0','','94253614','84023041','Ensino médio','av. beira mar 2, 69','beira mar','Igarasssu','Feminino','','nivaldo antonio da silva','evaneide gomes da cunha silva','igreja universal
+grupo força jovem','nunca fez paixão de cristo','','11/07/2000','Ator','134.317.084-20','10250373','','','','','')
+            
+
+        2019-03-16 15:23:29	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '331', 'C' )
+            
+
+        2019-03-16 15:31:07	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('geneilton guedes da silva filho','0','geneylton.16@gmail.com','93311704','94655520','3 ano ensino medio','rua roxinou, 160','nossa senhora da conceição','Igarasssu','Feminino','','GENEILTON GUEDES DA SILVA','marize maria da silva','paroquia sagrada familia
+','nunca fez paixão de cristo','','12/09/2002','Ator','141.840.684-80','10522123','MARIZE MARIA DA SILVA','','','','16')
+            
+
+        2019-03-16 15:31:07	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '332', 'C' )
+            
+
+        2019-03-16 15:38:45	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ezequiel de santana santos','0','ezequielsantana.r@gmail.com','93210354','94698622','Ensino médio','rua marluce p. farias, 770','vila da chesf','Igarasssu','Masculino','','edilson jose dos santos','maria jose ','ja frequentou igreja catolica e evangelica','nunca fez paixão de cristo','','29/02/1988','Ator','082.188.314-36','6928152','','','','','')
+            
+
+        2019-03-16 15:38:45	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '333', 'C' )
+            
+
+        2019-03-16 15:41:59	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ludimila fernada conceição soares','0','','93210354','94280874','6 ano','rua groelandia','loteamento agamenon magalhaes','Igarasssu','Feminino','','fernando jose soares','maria aparecida da conceiçao','assembleia de Deus','nunca fez paixão de cristo','','02/07/2008','Ator','','','','','','','')
+            
+
+        2019-03-16 15:41:59	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '334', 'C' )
+            
+
+        2019-03-16 15:45:39	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('josafa felix dos santos','0','felixjosaf@outlook.com','88180490','94425046','2 ano do ensnio medio','rua jose figueira galvao, 19','saramandaia','Igarasssu','Masculino','','jose felix dos santos','cristiane belo da silva','assembleia de Deus','nunca fez paixão de cristo','','25/06/2000','Ator','','','','','','','')
+            
+
+        2019-03-16 15:45:39	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '335', 'C' )
+            
+
+        2019-03-16 15:48:53	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('jose edson anastacio de lira','0','joseedson2206@gmail.com','83657534','94200907','Ensino médio','av. edgar lins','beira mar 1','Igarasssu','Masculino','','jose anastacio de lira','maria da penha de lira','igreja universal
+
+','nunca fez paixão de cristo','','22/06/1988','Ator','081.765.324-44','','','','','','')
+            
+
+        2019-03-16 15:48:53	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '336', 'C' )
+            
+
+        2019-03-16 15:53:02	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('vitoria kamilli souza ramos','0','vitoriakamillisouzaramos@gmail.com','94308846','','2 ano do ensnio medio','rua A, ','cortegada','Igarasssu','Feminino','','adilson ramos da silva','vera lucia de souza','igreja batista igreja
+geração luz','nunca fez paixão de cristo','','21/10/2002','Ator','154.643.574-32','10649825','VERA LUCIA DE SOUZA','','','','')
+            
+
+        2019-03-16 15:53:02	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '337', 'C' )
+            
+
+        2019-03-16 15:57:26	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('luana beatriz da silva','0','luanabeatriz-123@hotmail,com','93129794','94667116','Ensino médio','rua guerra dos meninos, 21','cruz de rebolças','Igarasssu','Feminino','','jose maciel da silva','ednalva cosme da silva','ejc
+fraternidade caminho','','','30/03/2001','Ator','089.519.864-97','','EDNALVA COSME DA SILVA','','','','')
+            
+
+        2019-03-16 15:57:26	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '338', 'C' )
+            
+
+        2019-03-16 16:02:25	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('pamala marry silva delgado','0','s.marry@outlook.com','88586117','93800801','Ensino médio','rua tom jobim, 56','pila','itamaraca','Feminino','','joao bezerra delgado','edvani tavares da silva delgado','ponto cidadao
+
+igreja batista','nunca fez paixão de cristo','','14/09/1999','Ator','086.390.814-41','10175938','','','','','19')
+            
+
+        2019-03-16 16:02:26	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '339', 'C' )
+            
+
+        2019-03-16 16:11:26	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('jeyce kelly dos santos ferreira','0','jeycekelly258@gmail.com','91167655','86689768','Ensino médio','rua virgilio de moraes','sitio boa vista','Igarasssu','Feminino','','severino ramos ferreira','milena benedito dos santos','igreja assembleia de Deus','nunca fez paixão de cristo','','08/03/2001','Ator','701.619.824-33','7913841','','','','','18')
+            
+
+        2019-03-16 16:11:26	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '340', 'C' )
+            
+
+        2019-03-16 16:15:45	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('maria meireles de oliveira','0','mariameireles737@gmail.com','91620214','','Ensino médio','rua mirandopolis','sitio dos marcos','Igarasssu','Feminino','','iraldir batista de oliveira','maria da conceição inacia de lira','catlica
+ejc','nunca fez paixão de cristo','','28/05/2000','Ator','145.292.864-95','10568279','','','','','18')
+            
+
+        2019-03-16 16:15:46	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '341', 'C' )
+            
+
+        2019-03-16 16:19:42	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('fernanda damascena da silva','0','','87230650','91690129','3 ano ensino medio','rua professora elza maria da rocha ferrira, 31','sitio dos marcos','Igarasssu','Feminino','','edson severino souza da silva','conceição fernandes DAMASCENA  da silva','catolica
+eucaristia','nunca fez paixão de cristo','','08/06/2001','Ator','152.698.644-28','10928858','CONCEIÇÃO FERNANDES DAMASCENA  DA SILVA','','','','17')
+            
+
+        2019-03-16 16:19:42	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '342', 'C' )
+            
+
+        2019-03-16 16:24:47	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('joao wictor da silva sena','0','vs908614@gmail.com','93321648','91352230','Ensino médio','','loteamento agamenon magalhaes','Igarasssu','Masculino','','paulo joao de sena','maria das graças lopes da silva','assembleia de Deus
+grupo: vocal
+
+
+
+','nunca fez paixão de cristo','','08/09/1997','Ator','106.124.089-11','','','','','','21')
+            
+
+        2019-03-16 16:24:47	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '343', 'C' )
+            
+
+        2019-03-16 16:29:08	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('sabrina silva lourenço','0','sabrina.silva3507@gmail.com','94723507','87560475','Ensino médio','rua argentina','posto de monta','Igarasssu','Feminino','','samuel severino lourenço','josiane severina da silva','catolica
+ejc','2014','','16/12/1998','Ator','126.766.714-13','9261188','','','','','')
+            
+
+        2019-03-16 16:29:08	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '344', 'C' )
+            
+
+        2019-03-16 16:33:35	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('adriano edson da silva junior','0','adrianoedson96@gmail.com','94485172','94726027','Ensino médio','rua arizona, 3268','posto de monta','Igarasssu','Masculino','','ADRIANO EDSON DA SILVA ','elinete maria de freitas','igreja catolica
+ejc
+
+jovem aprendiz em cidade alta rio doce, de segunda a sexta.','nunca fez paixão de cristo','','23/04/1999','Ator','068.376.594-99','9945988','','','','','19')
+            
+
+        2019-03-16 16:33:35	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '345', 'C' )
+            
+
+        2019-03-16 16:37:52	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('andre luizbezerra ferreira','0','','89320091','','1 ano do ensino medio','rua manacial, 8A','manacial','Igarasssu','Masculino','','paulo jose luiz','ivonete maria bezerra','frequentou igreja batista
+
+','nunca fez paixão de cristo','','17/09/1993','Ator','116.282.814-56','','','','','','25')
+            
+
+        2019-03-16 16:37:53	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '346', 'C' )
+            
+
+        2019-03-16 16:45:29	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('roseli maria de souza e silva','0','rroseli004@gmail.com','94259395','85036597','3 ano ensino medio','rua alfredo vieira de melo, 174','cruz de rebolças','Igarasssu','Feminino','','josué de souza e silva','maria de lourdes da conceição','assembleia de Deus
+grupo: DEJEADALPE','nunca fez paixão de cristo','','23/08/2002','Ator','091.181.984-30','9842157','MARIA DE LOURDES DA CONCEIÇÃO','','','','16')
+            
+
+        2019-03-16 16:45:30	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '347', 'C' )
+            
+
+        2019-03-16 16:54:25	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('elayne mirele de oliveira bomfim','0','','87801662','93273496','Ensino médio','rua iaman','cruz de rebouças','Igarasssu','Feminino','','ednaldo jose de oliveira bomfim','geane de oliveira bomfim','igreja catolica
+grupo de liturgia','nunca fez paixão de cristo','','08/05/2001','Ator','710.426.804-78','10085514','GEANE DE OLIVEIRA BOMFIM','','','','17')
+            
+
+        2019-03-16 16:54:25	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '348', 'C' )
+            
+
+        2019-03-16 16:59:28	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('vitoria Mylena simplicio da silva','0','vitoriamylena59@gmail.com','93011506','94359909','Ensino médio','rua severino azevedo de vasconcelos, 28','santa rita','Igarasssu','Feminino','','','maria da conceição da silva','catolica
+ejc','nunca fez paixão de cristo','','20/01/2001','Ator','138.022.824-77','10373945','','','','','18')
+            
+
+        2019-03-16 16:59:28	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '349', 'C' )
+            
+
+        2019-03-16 17:06:13	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('mikaely mayara gomes marinho','0','mikamarinho0800@gmail.com','84231787','86439200','Ensino médio','av. david guerra de araujo, 587','centro','itapissuma','Feminino','','marcone alves marinho','ana paula gomes da cruz marinho','evangelica,
+
+comunidade da graça','nunca fez paixão de cristo','','22/02/2000','Ator','705.683.554-66','9843955','','','','','19')
+            
+
+        2019-03-16 17:06:14	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '350', 'C' )
+            
+
+        2019-03-16 17:11:49	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('wesley henrique pereira da silva','0','wesleywhps14@gmail.com','91293956','83130139','Ensino médio','rua jose vicente xavier, 44','santa rita','Igarasssu','Masculino','','sergio pereira da silva','sandra lucia santos prazeres','frequentou a igreja assembleia de Deus
+
+ponto cidadao','nunca fez paixão de cristo','','31/08/2001','Ator','133.113.154-56','','SANDRA LUCIA SANTOS PRAZERES','','','','17')
+            
+
+        2019-03-16 17:11:49	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '351', 'C' )
+            
+
+        2019-03-16 17:16:12	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '121', 'C' )
+            
+
+        2019-03-16 17:17:47	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '148', 'C' )
+            
+
+        2019-03-16 17:28:41	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('345','thumbnail_1552753627.jpg','P')
+            
+
+        2019-03-16 17:29:32	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('323','thumbnail_1552753721.jpg','P')
+            
+
+        2019-03-16 17:30:28	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('346','thumbnail_1552753772.jpg','P')
+            
+
+        2019-03-16 17:40:03	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('346','thumbnail_1552753828.jpg','P')
+            
+
+        2019-03-16 17:40:27	
+        DELETE FROM foto_colaborador WHERE idano = 583
+            
+
+        2019-03-16 17:42:00	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('329','thumbnail_1552754403.jpg','P')
+            
+
+        2019-03-16 17:43:13	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('90','thumbnail_1552754520.jpg','P')
+            
+
+        2019-03-16 17:44:55	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('324','thumbnail_1552754593.jpg','P')
+            
+
+        2019-03-16 17:46:02	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('331','thumbnail_1552754695.jpg','P')
+            
+
+        2019-03-16 17:47:57	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('325','thumbnail_1552754762.jpg','P')
+            
+
+        2019-03-16 17:48:25	
+        DELETE FROM colaborador WHERE id = 326
+            
+
+        2019-03-16 17:49:47	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('348','thumbnail_1552754877.jpg','P')
+            
+
+        2019-03-16 17:50:39	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('321','thumbnail_1552754987.jpg','P')
+            
+
+        2019-03-16 17:52:07	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('333','thumbnail_1552755039.jpg','P')
+            
+
+        2019-03-16 17:54:31	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('342','thumbnail_1552755127.jpg','P')
+            
+
+        2019-03-16 17:55:26	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('330','thumbnail_1552755271.jpg','P')
+            
+
+        2019-03-16 17:57:26	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('332','thumbnail_1552755326.jpg','P')
+            
+
+        2019-03-16 17:58:41	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('343','thumbnail_1552755446.jpg','P')
+            
+
+        2019-03-16 17:59:27	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('335','thumbnail_1552755521.jpg','P')
+            
+
+        2019-03-16 18:01:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('336','thumbnail_1552755567.jpg','P')
+            
+
+        2019-03-16 18:01:59	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('338','thumbnail_1552755672.jpg','P')
+            
+
+        2019-03-16 18:03:59	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('334','thumbnail_1552755719.jpg','P')
+            
+
+        2019-03-16 18:05:34	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('339','thumbnail_1552755839.jpg','P')
+            
+
+        2019-03-16 18:06:38	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('344','thumbnail_1552755934.jpg','P')
+            
+
+        2019-03-16 18:07:36	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('327','thumbnail_1552755998.jpg','P')
+            
+
+        2019-03-16 18:09:43	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('341','thumbnail_1552756056.jpg','P')
+            
+
+        2019-03-16 18:11:25	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('322','thumbnail_1552756183.jpg','P')
+            
+
+        2019-03-16 18:12:41	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('349','thumbnail_1552756285.jpg','P')
+            
+
+        2019-03-16 18:13:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('351','thumbnail_1552756361.jpg','P')
+            
+
+        2019-03-16 18:29:03	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('350','thumbnail_1552756399.jpg','P')
+            
+
+        2019-03-16 18:30:11	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('0','thumbnail_1552757343.jpg','P')
+            
+
+        2019-03-31 16:00:57	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('maria eduarda lima de souza','0','','9478949446','','','rua aldeario pantaleão camara n ,125','tabatinga','igarassu','Feminino','','irael alvez de souza','selma salutiano de lima','','nunca fez paixao de cristo','','16/08/2001','Ator','','','SELMA SALUTIANO DE LIMA','','','','17')
+            
+
+        2019-03-31 16:00:57	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '352', 'C' )
+            
+
+        2019-03-31 16:02:43	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '57', 'C' )
+            
+
+        2019-03-31 16:08:16	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('laryssa bandeira de melo silva','0','','98538-8599/98775-3014','','','andelario pantelao camara','tabatinga','igarassu','Feminino','','manoel nazareno da silva','sileide BANDeira  de melo silva','','','','18/03/2001','Ator','','','SILEIDE BANDEIRA  DE MELO SILVA','','','','18')
+            
+
+        2019-03-31 16:08:16	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '353', 'C' )
+            
+
+        2019-03-31 16:13:50	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('maria gomes do santos( COSTUREIRA)','0','','98322/7686','','','rua e numero 11 Olinda','olinda','igarassu','Feminino','','ZEFIRINO gomes da silva','severina maria da conceiçao','','','','12/11/1953','Produção','','','','','','','85')
+            
+
+        2019-03-31 16:13:50	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '354', 'C' )
+            
+
+        2019-03-31 16:18:49	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rayssa carla  nascimento  souza','0','','','','','rua jardins  tocandira','area de descoberta','igarassu','Feminino','','jose fabiano souza','ALEXANDRA da costa','','','','25/07/2003','Ator','','','ALEXANDRA DA COSTA','','','','15')
+            
+
+        2019-03-31 16:18:49	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '355', 'C' )
+            
+
+        2019-03-31 16:29:50	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rafaela soares de lima','0','','','99469/8622','','avenida severino tavares Uchôa de souzas s/n','zona rural','igarassu','Feminino','','fernado jose soares','maria lucia de lima soares','','','','21/01/1990','Ator','092.816.664-30','','','','','','29')
+            
+
+        2019-03-31 16:29:50	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '356', 'C' )
+            
+
+        2019-03-31 16:33:25	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('dulcineia antonia da conceicao ','0','','991356575','','','rua beira mar 2 nº 22','beira mar 2','igarassu','Feminino','','severino domingues pereira ','antonia GERTRUDES da CONCEIÇÃO','','','','08/08/1963','Ator','','','','','','','58')
+            
+
+        2019-03-31 16:33:25	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '357', 'C' )
+            
+
+        2019-03-31 16:43:33	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('silvania maria oliveira de amorim','0','','','99266/5368','','rua rangel numero 151 loteamento Agamenon','lot.agamenon','igarassu','Feminino','','jose lauro de amorim','maria helena oliveira de amorim','','','','08/11/1981','Ator','','','','','','','37')
+            
+
+        2019-03-31 16:43:33	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '358', 'C' )
+            
+
+        2019-03-31 16:47:46	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('erinaldo dias','0','','','98877/4257','','rua Catolé  2915','artulr lugre','paulista','Masculino','','jamelinio carlo dias','julia maria dias','','','','27/04/1969','Ator','','','','','','','49')
+            
+
+        2019-03-31 16:47:46	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '359', 'C' )
+            
+
+        2019-03-31 16:52:31	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('crislaine patricia pereira de lima','0','','','986331109','','rua ezequiel medeiro correia','taepe 2','igarassu','Feminino','','carlos albento ribeiro de lima','maria das GRAÇA pereira de lima ','','','','13/10/1988','Ator','','','','','','','30')
+            
+
+        2019-03-31 16:52:31	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '360', 'C' )
+            
+
+        2019-03-31 16:55:31	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('niltor xavier da silva','0','','','9886024154','','avenida ruy babosa n 128 abreu lima','tinbo','abreu lima ','Feminino','','manoel xavier da silva','olivia maria da silva','','','','24/09/1961','Ator','','','','','','','57')
+            
+
+        2019-03-31 16:55:31	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '361', 'C' )
+            
+
+        2019-03-31 16:59:00	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('patrick cruz da silva','0','','','99149/2254','','tv 1 da estrada de marco 42br','marco de pedra','igarassu','Masculino','','geraldo cruz da silva','raquel gomes da silva','','','','03/05/1996','Ator','','','','','','','22')
+            
+
+        2019-03-31 16:59:01	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '362', 'C' )
+            
+
+        2019-03-31 17:02:17	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ananias santana do nascimento','0','','','983618612','','rua b n 59','tabatinga','igarassu','Masculino','','samuel sant ana do nascimento','amara maria de oliveira','','','','16/11/1990','Ator','','','','','','','28')
+            
+
+        2019-03-31 17:02:18	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '363', 'C' )
+            
+
+        2019-03-31 17:05:52	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('elane cristina de souza berenguer ','0','','','99775/1219','','rua joao alvez bereguer n 37','cruz de rebouça','igarassu','Feminino','','marcos  bereguer','selma bereguer','','','','23/07/1984','Ator','','','','','','','34')
+            
+
+        2019-03-31 17:05:52	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '364', 'C' )
+            
+
+        2019-03-31 17:08:58	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('joao ferreira gonsaveis  da silva','0','','','98589/8505','','rua ezequiel medeiro correia','centro','igarassu','Masculino','','joao gonsaveis da silva','maria da conceicao ferreira da silva','','','','21/05/1986','Ator','','','','','','','32')
+            
+
+        2019-03-31 17:08:58	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '365', 'C' )
+            
+
+        2019-03-31 17:12:08	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('anderson luiz de ARRUDA freitas','0','','','98109/1475','','rua rosa tuder de melo n 09','cruz de rebouca','igarassu','Masculino','','manoel gomes de freitas  neto','ceila assunçao de arruda freitas','','','','13/04/1988','Ator','','','','','','','30')
+            
+
+        2019-03-31 17:12:08	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '366', 'C' )
+            
+
+        2019-03-31 17:14:09	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '181', 'C' )
+            
+
+        2019-03-31 17:16:50	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('willita dias da silva','0','','','98167-1350','','rua joao paz da silva','cruz de rebouca','igarassu','Feminino','','will FRANCISCO da silva','veronica dias de oliveira','','','','20/04/1984','Ator','','','','','','','33')
+            
+
+        2019-03-31 17:16:50	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '367', 'C' )
+            
+
+        2019-03-31 17:27:48	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('352','thumbnail_1554046040.jpg','P')
+            
+
+        2019-03-31 17:39:08	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('363','thumbnail_1554046533.jpg','P')
+            
+
+        2019-03-31 17:43:30	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('364','thumbnail_1554046748.jpg','P')
+            
+
+        2019-03-31 17:45:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('366','thumbnail_1554047010.jpg','P')
+            
+
+        2019-03-31 17:47:31	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('360','thumbnail_1554047149.jpg','P')
+            
+
+        2019-03-31 17:49:07	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('359','thumbnail_1554047251.jpg','P')
+            
+
+        2019-03-31 17:51:43	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('354','thumbnail_1554047347.jpg','P')
+            
+
+        2019-03-31 17:54:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('340','thumbnail_1554047503.jpg','P')
+            
+
+        2019-03-31 17:55:04	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('367','thumbnail_1554047652.jpg','P')
+            
+
+        2019-03-31 17:56:18	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('353','thumbnail_1554047704.jpg','P')
+            
+
+        2019-03-31 17:58:04	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('362','thumbnail_1554047778.jpg','P')
+            
+
+        2019-03-31 17:59:51	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('356','thumbnail_1554047884.jpg','P')
+            
+
+        2019-03-31 18:01:20	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('357','thumbnail_1554047991.jpg','P')
+            
+
+        2019-03-31 18:03:11	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('355','thumbnail_1554048080.jpg','P')
+            
+
+        2019-03-31 18:05:22	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('365','thumbnail_1554048191.jpg','P')
+            
+
+        2019-03-31 18:07:17	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('358','thumbnail_1554048322.jpg','P')
+            
+
+        2019-03-31 18:08:55	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('316','thumbnail_1554048437.jpg','P')
+            
+
+        2019-03-31 18:15:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('334','thumbnail_1554048535.jpg','P')
+            
+
+        2019-03-31 18:19:20	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('90','thumbnail_1554048919.jpg','P')
+            
+
+        2019-04-05 15:18:14	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '227', 'C' )
+            
+
+        2019-04-05 15:20:32	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '132', 'C' )
+            
+
+        2019-04-05 15:21:05	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','NAO', '248', 'C' )
+            
+
+        2019-04-05 15:48:02	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '107', 'C' )
+            
+
+        2019-04-05 22:04:23	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Andre Falcão','0','','','','','','','Igarasssu','Masculino','','','','','','','','Produção','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-05 22:04:24	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '368', 'C' )
+            
+
+        2019-04-06 02:14:05	
+        DELETE FROM ano_projeto WHERE idano = 454
+            
+
+        2019-04-06 02:14:48	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '4', 'C' )
+            
+
+        2019-04-06 14:48:52	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Jeronimo justino da silva junior','0','atorjuniorpernambuco@gmail.com'','81987848248','','','rua serra leoa, 3','loteamento agamenon magalhaes','Igarasssu','Masculino','','JERONIMO JUSTINO DA SILVA','maria luiza freire da silva','','','','25/10/1986','Diretor','072.083.094-00','6894251','','','','','')
+            
+
+        2019-04-06 14:49:46	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Jeronimo justino da silva junior','0','atorjuniorpernambuco@gmail.com'','81987848248','','','rua serra leoa, 3','loteamento agamenon magalhaes','Igarasssu','Masculino','','JERONIMO JUSTINO DA SILVA','maria luiza freire da silva','','','','25/10/1986','Diretor','072.083.094-00','6894251','','','','','')
+            
+
+        2019-04-06 14:49:58	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Jeronimo justino da silva junior','0','atorjuniorpernambuco@gmail.com','81987848248','','','rua serra leoa, 3','loteamento agamenon magalhaes','Igarasssu','Masculino','','JERONIMO JUSTINO DA SILVA','maria luiza freire da silva','','','','25/10/1986','Diretor','072.083.094-00','6894251','','','','','')
+            
+
+        2019-04-06 14:49:58	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '380', 'C' )
+            
+
+        2019-04-06 14:58:36	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('380','thumbnail_1554509992.jpg','P')
+            
+
+        2019-04-06 15:04:15	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('geane justino da silva santos','0','','83291854','','Ensino médio','rua jacaranda, 22','parque igarassu','Igarasssu','Feminino','','JERONIMO JUSTINO DA SILVA','maria luiza freire da silva','asembleia de Deus','','','22/06/1981','Ator','057.320.144-70','5750114','','','','','')
+            
+
+        2019-04-06 15:04:15	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '381', 'C' )
+            
+
+        2019-04-06 15:05:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('381','thumbnail_1554555516.jpg','P')
+            
+
+        2019-04-06 15:09:05	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('maria das graças pereira de lima','0','','93004162','85909974','Ensino médio','rua maria luiza, 105','taepe 2','Igarasssu','Feminino','','','','catolica','nunca fez paixão de cristo','','21/02/1966','Ator','463.160.604-59','3035105','','','','','')
+            
+
+        2019-04-06 15:09:05	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '382', 'C' )
+            
+
+        2019-04-06 15:10:46	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('382','thumbnail_1554555949.jpg','P')
+            
+
+        2019-04-06 15:14:33	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('cecilia jade de lima gonçalves','0','','93004162','','ensino fundamental','rua maria luiza, 105','taepe 2','Igarasssu','Masculino','','joao ferreira','crislany patricia pereira de lima','catolica','nunca fez paixão de cristo','','06/03/2013','Ator','','','CRISLANY PATRICIA PEREIRA DE LIMA','','','','6')
+            
+
+        2019-04-06 15:14:33	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '383', 'C' )
+            
+
+        2019-04-06 15:20:48	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('383','thumbnail_1554556246.jpg','P')
+            
+
+        2019-04-06 15:26:39	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('maria gabrielly de albuquerque souza','0','','89435823','','','residencial tropical, quadra f, 17','loteamento agamenon magalhaes','Igarasssu','Feminino','','josivaldo bernades de souza','laene de albuquerque bezerra','assembleia de Deus
+derge','nunca fez paixão de cristo','','28/12/2005','Ator','','','LAENE DE ALBUQUERQUE BEZERRA','','054.977.164-66','','')
+            
+
+        2019-04-06 15:26:40	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '384', 'C' )
+            
+
+        2019-04-06 15:28:41	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('384','thumbnail_1554556848.jpg','P')
+            
+
+        2019-04-06 15:31:35	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('manoel soares de lima neto','0','','92100701','','Ensino médio','rua jamaica, 90','loteamento agamenon magalhaes','Igarasssu','Masculino','','osvaldo lucio francisco','maria aquilina soares de lima','assembleia de Deus
+
+','no colegio','','30/06/1999','Ator','125.147.764-06','9804276','','','','','19')
+            
+
+        2019-04-06 15:31:35	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '385', 'C' )
+            
+
+        2019-04-06 15:36:12	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('frrancile fernanda dias cruz','0','silvaurania190@gmail.com','8668618','','ensino fundamental','5º tv. manacial, 03','santa rita','Igarasssu','Feminino','','jose antonio cruz filho','urania dia da silva','catolica','','','26/10/2005','Ator','','','URANIA DIA DA SILVA','','','','13')
+            
+
+        2019-04-06 15:36:12	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '386', 'C' )
+            
+
+        2019-04-06 15:41:56	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('386','thumbnail_1554557321.jpg','P')
+            
+
+        2019-04-06 15:44:47	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('fiama dias de souza','0','','8668618','','Ensino médio','5º tv. manacial, 03','santa rita','Igarasssu','Feminino','','ormando jose de souza','urania dias da sivla','catolica
+ejc','','','22/06/1993','Ator','108.092.354-39','','','','','','25')
+            
+
+        2019-04-06 15:44:47	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '387', 'C' )
+            
+
+        2019-04-06 15:48:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('387','thumbnail_1554558116.jpg','P')
+            
+
+        2019-04-06 15:53:02	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('stefani noberto silvestre da silva','0','ste.tete15.noberto@gmail.com','83644470','','Ensino médio','rua salatiel, frutos do macedo','centro','Igarasssu','Feminino','','adriano noberto','leninha silvestre','igreja novo tempo','nunca fez paixão de cristo','','31/03/2001','Ator','448.717.128-85','10152771','','','','','18')
+            
+
+        2019-04-06 15:53:03	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '388', 'C' )
+            
+
+        2019-04-06 15:54:17	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '282', 'C' )
+            
+
+        2019-04-06 15:54:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('388','thumbnail_1554558529.jpg','P')
+            
+
+        2019-04-06 15:58:29	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('erick mendonça de oliveira','0','','94195009','','Ensino médio','av. santina gomes de andrade, 446','centro','Igarasssu','Masculino','','edno francisco de oliveira','ericka patricia mendonça de oliveira','sem religiao','nunca fez paixão de cristo','','23/10/2000','Ator','143.955.424-25','10038294','','','','','18')
+            
+
+        2019-04-06 15:58:29	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '389', 'C' )
+            
+
+        2019-04-06 15:59:25	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('389','thumbnail_1554558889.jpg','P')
+            
+
+        2019-04-06 16:02:59	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('cristiano de assis silva','0','','91189749','','3 ano ensino medio','rua santa marta, ','beira mar 1','Igarasssu','Masculino','','severino correia da silva','eliege judite  de assis','grupo de teatro de ronalda
+espetaculo nascimento de jesus
+
+sem religiao mas acredita em Deus
+
+
+
+','nunca fez paixão de cristo','','22/12/2000','Ator','706.636.624-78','9827288','','','','','18')
+            
+
+        2019-04-06 16:02:59	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '390', 'C' )
+            
+
+        2019-04-06 16:03:57	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('390','thumbnail_1554559165.jpg','P')
+            
+
+        2019-04-06 16:08:42	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ediagli rique de lima ferreira','0','','83160601','','Ensino médio','rua monteiro francisco, 33','loteamento agamenon magalhaes','Igarasssu','Masculino','','edilson guilherme ferreira','suzana maria de lima','sem religião, acredita em Deus','nunca fez paixão de cristo','','15/03/1999','Ator','124.828.884-09','9872469','','','','','20')
+            
+
+        2019-04-06 16:08:42	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '391', 'C' )
+            
+
+        2019-04-06 16:09:46	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('391','thumbnail_1554559437.jpg','P')
+            
+
+        2019-04-06 16:12:07	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '260', 'C' )
+            
+
+        2019-04-06 16:14:06	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '261', 'C' )
+            
+
+        2019-04-06 16:31:00	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('julia roberta dos santos','0','','86972042','','1 ano do ensino medio','rua santa cecilia, 1','tabatinga','Igarasssu','Feminino','','','laudeci justina dos santos','sem religiao, acredita em Deus','nunca fez paixão de cristo','','03/05/2003','Ator','','9696343','','','','','15')
+            
+
+        2019-04-06 16:31:00	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '392', 'C' )
+            
+
+        2019-04-06 16:36:39	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('392','thumbnail_1554559786.jpg','P')
+            
+
+        2019-04-06 16:37:06	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('392','thumbnail_1554561399.jpg','P')
+            
+
+        2019-04-06 16:38:37	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('311','thumbnail_1554561426.jpg','P')
+            
+
+        2019-04-06 16:41:51	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '311', 'C' )
+            
+
+        2019-04-06 16:46:30	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('denise alves de barros','0','','93922639','','1 ano do ensino medio','rua antonio henrique ferreira, 21','beira mar 2','Igarasssu','Feminino','','','vanessa alves de santa','batizada na igreja católica
+
+frequentou a igreja catolica, assembleia e universal','','','02/02/2001','Ator','145.697.134-40','10322383','','','','','18')
+            
+
+        2019-04-06 16:46:30	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '393', 'C' )
+            
+
+        2019-04-06 16:47:38	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('393','thumbnail_1554561517.jpg','P')
+            
+
+        2019-04-06 16:56:09	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ericka gabrielle de oliveira','0','','93928173','','Ensino médio','rua jose floretino de menezes, 1944','santa rita','Igarasssu','Feminino','','','','assembleia de Deus
+umadal','nunca fez paixão de cristo','','29/02/2000','Ator','134.475.084-26','10241945','','','','','19')
+            
+
+        2019-04-06 16:56:09	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '394', 'C' )
+            
+
+        2019-04-06 17:01:16	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('394','thumbnail_1554562058.jpg','P')
+            
+
+        2019-04-06 17:04:08	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('aldeyse alves dos santos','0','','93922639','','','rua antonio henrique ferreira, 21','beira mar 2','Igarasssu','Feminino','','','','','nunca fez paixão de cristo','','23/05/2017','Ator','','','denise alves de barros','10322383','145.697.134-40','','')
+            
+
+        2019-04-06 17:04:08	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '395', 'C' )
+            
+
+        2019-04-06 17:05:42	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('395','thumbnail_1554562876.jpg','P')
+            
+
+        2019-04-07 00:19:06	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('315','thumbnail_1554589126.jpg','P')
+            
+
+        2019-04-10 00:39:44	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('breno HENRIQUE pimentel de oliveira','0','','','86495371','','av  algor  industrial n 114','vila  saramadaia','igarassu','Masculino','','JOSeildo  GENUÍNO de oliveira','adriana  maria  da silva pimentel','','','','15\06\2001','Ator','','','ADRIANA  MARIA  DA SILVA PIMENTEL','','','','17')
+            
+
+        2019-04-10 00:39:44	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '400', 'C' )
+            
+
+        2019-04-10 00:45:39	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ataylane de oliveira ','0','','','992551995','','rua b nº31','','igarassu','Feminino','','','jacira oliveira de santana','','','','10/02/1997','Figurinista','','','JACIRA OLIVEIRA DE SANTANA','','','','22')
+            
+
+        2019-04-10 00:45:39	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '401', 'C' )
+            
+
+        2019-04-10 00:51:48	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('patricia da silva carneiro','0','','','98655-7419','','rua a n° 20','','igarassu','Feminino','','joao gonçaveis carneiro','TERESINHA de jesus da silva','','','','30/05/1983','Figurinista','','','','','','','35')
+            
+
+        2019-04-10 00:51:48	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '402', 'C' )
+            
+
+        2019-04-10 00:58:31	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('josefa maria de ARAÚJOS leite','0','','','983120853','','rua nova olinda 6 residencial ouro verde qd -flt 06','','igarassu','Feminino','','josebarbosa de araujo','rosilda cosme  araujos','','','','04/07/1965','Figurinista','','','','','','','53')
+            
+
+        2019-04-10 00:58:31	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '403', 'C' )
+            
+
+        2019-04-10 01:05:06	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('elissandra silva barros','0','','','986676740','','tv,sao joao,nº06 bela vista','bela  vista','igarassu','Feminino','','edson constantino  de barros','alexandra maria da silva','','','','05/01/2002','Figurinista','','','ALEXANDRA MARIA DA SILVA','','','','17')
+            
+
+        2019-04-10 01:05:06	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '404', 'C' )
+            
+
+        2019-04-10 01:11:17	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('williamis almeidas nascimento','0','','','995908430','','av herculanos bandeiras n °116','','igarassu','Masculino','','marcone jose do nascimento silva','ivaneide braga de almeida','','','','03/02/2000','Figurinista','','','','','','','19')
+            
+
+        2019-04-10 01:11:17	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '405', 'C' )
+            
+
+        2019-04-10 01:17:02	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('alice flavianny dos santos','0','','','989636523','','av herculanos bandeiras n °116','centro','igarassu','Feminino','','flavio cicero dos santos','amanda karinni dos  santo cruz','','','','05/09/2003','Assistente de Direção','','','AMANDA KARINNI DOS  SANTO CRUZ','','','','15')
+            
+
+        2019-04-10 01:17:02	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '406', 'C' )
+            
+
+        2019-04-10 01:21:46	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('marcos vinicius assunçao da silva','0','','','991302108','','rua rosa  tuder de melo  09','','igarassu','','','cristiano assunçao de arruda','adriana amara dasilva','primeira vez ','','','05/03/1998','Figurinista','','','','','','','21')
+            
+
+        2019-04-10 01:21:47	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '407', 'C' )
+            
+
+        2019-04-10 01:29:54	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('bruno luiz de souza  silva','0','','','986091117','','eudes francisco da silva n°42','centro','igarassu','Masculino','','jose severino firmino da silva','jeane borges de souza silva','primeira vez','','','05/08/1999','Assistente de Direção','','','','','','','19')
+            
+
+        2019-04-10 01:29:54	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '408', 'C' )
+            
+
+        2019-04-10 01:36:02	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('pedro henrick o,vasconcelos','0','','','992820744','','rua luiza de albuerque paiva ','tabatinga','igarassu','Masculino','','jose ricardo gomes vasconcelos','ELISÂNGELA das chagas oliveiras','','','','07/03/2000','Figurinista','','','','','','','19')
+            
+
+        2019-04-10 01:36:02	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '409', 'C' )
+            
+
+        2019-04-10 01:41:07	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('felipe augusto de oliveira','0','','','992951540','','av agro industrial 105','vila  saramadaia','igarassu','Masculino','','wellington jose gomes','tonia lucia de oliveira','','','','13/10/1998','Assistente de Direção','','','','','','','20')
+            
+
+        2019-04-10 01:41:07	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '410', 'C' )
+            
+
+        2019-04-10 01:44:48	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ellian duard de souza viera','0','','','994187947','','rua jamaica n 89','lot Agamenon','igarassu','Masculino','','eduardo viera da silva','DENISE cristina de souza viera','','','','17/08/2000','Figurinista','','','','','','','18')
+            
+
+        2019-04-10 01:44:48	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '411', 'C' )
+            
+
+        2019-04-10 01:52:30	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('hewerson de freitas','0','','','','','rua joao paulo sn','centro','igarassu','Masculino','','natanael samuel sa','','','','','17/02/2003','Figurinista','','','','','','','16')
+            
+
+        2019-04-10 01:52:30	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '412', 'C' )
+            
+
+        2019-04-10 01:59:35	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('carlos eduardo alves de lima','0','','','987909948','','rua 189 n°46 casa b','caetes 1','abreu lima ','Masculino','','ledinilson alves de lima','marcia alves de lima','primeira vezes ','','','31/07/1984','Ator','','','','','','','34')
+            
+
+        2019-04-10 01:59:36	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '413', 'C' )
+            
+
+        2019-04-10 01:59:52	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('','0','','','','','','','','','','','','','','','','','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-10 01:59:52	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '414', 'C' )
+            
+
+        2019-04-10 02:15:17	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('joaquin  fragoso  pinto neto','0','','','994433574','','av joaquin  nabuco n°52','','igarassu','Masculino','','joaquin fragoso pinto  FILHO','josefa vania da silva pinto','','','','14/02/2008','Figurinista','','','JOSEFA VANIA DA SILVA PINTO','','','','11')
+            
+
+        2019-04-10 02:15:17	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '415', 'C' )
+            
+
+        2019-04-10 02:19:23	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('sabrina gabriella lucena pinto','0','','','99757565','','joaquin nabuco  52','','igarassu','Feminino','','joaquin fragoso pinto  FILHO','josefa vania da silva pinto','','','','14/02/2008','Figurinista','155.120.724-98','','JOSEFA VANIA DA SILVA PINTO','','','','11')
+            
+
+        2019-04-10 02:19:23	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '416', 'C' )
+            
+
+        2019-04-12 00:52:17	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('lucas menezes de santanas','0','','','989974906','','rua libia 8 k','bela  vista','igarassu','Masculino','','antonio de lisboa de santana','maria aparecida de targino de menezes','','','','11/01/2003','Figurinista','','','MARIA APARECIDA DE TARGINO DE MENEZES','','','','16')
+            
+
+        2019-04-12 00:52:18	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '421', 'C' )
+            
+
+        2019-04-12 00:56:15	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('gloria eduarda m.de santanas','0','','','982306052','','rua libia 8 k','','igarassu','Feminino','','antonio de lisboa de santana','maria aparecida de targino de menezes','','','','29/07/2000','Figurinista','','','','','','','18')
+            
+
+        2019-04-12 00:56:15	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '422', 'C' )
+            
+
+        2019-04-12 01:02:01	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('thalia jeorgya dias freire santos','0','','','991871101','','rua dois luiz freire n°35','','igarassu','Feminino','','paulo renato dias freires da silva ','monica cristina dos santos','','','','13/07/1999','Figurinista','','','','','','','19')
+            
+
+        2019-04-12 01:02:01	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '423', 'C' )
+            
+
+        2019-04-12 01:04:10	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '110', 'C' )
+            
+
+        2019-04-12 01:13:21	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('kyara fernandes dos santos ','0','','','','','rua dolares brendures ferreiras n°80','santa rita','igarassu','Masculino','','jose arimateia francisco dos santos ','fabiana fernandes de lira','','','','20/11/2009','Figurinista','','','FABIANA FERNANDES DE LIRA','','','','9')
+            
+
+        2019-04-12 01:13:21	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '424', 'C' )
+            
+
+        2019-04-12 01:18:45	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('fabiana fernandes de lira','0','','','985324369','','rua doleres brederodes n 80','santa rita','igarassu','Feminino','','antoniio FLORÊNCIO de lira','vincecia fernandes de lira','','','','23/08/1982','Figurinista','','','','','','','36')
+            
+
+        2019-04-12 01:18:45	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '425', 'C' )
+            
+
+        2019-04-12 01:22:33	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','PENDENTE', '267', 'C' )
+            
+
+        2019-04-12 01:31:10	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('alex vinicius de paula guedes','0','','','987771993','','tv herculano bandeira n°120','centro','igarassu','Masculino','','alexandre  guedes do nascimento ','josefa ferreira de paula','','','','16/10/2000','Figurinista','','','','','','','18')
+            
+
+        2019-04-12 01:31:10	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '426', 'C' )
+            
+
+        2019-04-12 01:38:00	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('allyson gomes de arruda','0','','','982961392','','rua nanoel franciscos caneiro','centro','igarassu','Masculino','','adilson gomes de arrudas ','angela maria da CONCEIÇÃO de araujo','ator principal pilatos.','','','15/02/1989','Ator','','','','','','','30')
+            
+
+        2019-04-12 01:38:00	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '427', 'C' )
+            
+
+        2019-04-12 01:42:36	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('renan ribeirotavares de lima','0','','','984098501','','ubirajara ribeiro campos sobrinho','','igarassu','Masculino','','jefferson tavares de lima','renata mendes ribeiro de lima','','','',' 21/05/2000','Figurinista','','','','','','','18')
+            
+
+        2019-04-12 01:42:36	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '428', 'C' )
+            
+
+        2019-04-12 01:46:17	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('alisson kleber gomes de almeidas','0','','','','','rua maria Cecilia n°36 ','centro','igarassu','Masculino','','','lucia gomes de almeida','','','','20/03/1993','Figurinista','','','','','','','24')
+            
+
+        2019-04-12 01:46:17	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '429', 'C' )
+            
+
+        2019-04-12 01:54:54	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '258', 'C' )
+            
+
+        2019-04-12 02:00:48	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('bruno lamartine souza do valle ferreira ','0','','','998473062','','rua jardins boa sorte n 38','','igarassu','Masculino','','alfredo do valle ferreira ','sonia maria souza do valle ferreira','papel nicodernio','','','13/05/1981','Ator','','','','','','','37')
+            
+
+        2019-04-12 02:00:48	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '430', 'C' )
+            
+
+        2019-04-12 02:04:12	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('pamela beatriz santana do santos FERNANDES','0','','','981091475','','rua rosa  tuder de melo  09','','igarassu','Feminino','','','','','','','18/08/2012','Figurinista','','','anderson luiz de arruda freitas','','','','6')
+            
+
+        2019-04-12 02:04:12	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '431', 'C' )
+            
+
+        2019-04-12 02:07:05	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '15', 'C' )
+            
+
+        2019-04-12 02:07:14	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '14', 'C' )
+            
+
+        2019-04-12 02:17:36	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('elvys menezes alves brandao ','0','','','991915442','','rua joao ricardo silva ','cruz de rebouca','igarassu','Masculino','','edvando menezes alves brandao','maria tereza carvalhos de lima','papel apostolos felipes','','','24/10/1998','Ator','','','','','','','20')
+            
+
+        2019-04-12 02:17:36	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '432', 'C' )
+            
+
+        2019-04-12 02:21:17	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('josefa ferreira de paula','0','','','988727580','','tv herculano bandeira n°120','centro','igarassu','Feminino','','jose ferreira de paula','maria jose ferreira da silva','','','','05/05/1971','Figurinista','','','','','','','48')
+            
+
+        2019-04-12 02:21:17	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '433', 'C' )
+            
+
+        2019-04-12 02:38:42	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '308', 'C' )
+            
+
+        2019-04-12 02:41:19	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '10', 'C' )
+            
+
+        2019-04-12 02:46:02	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('CAMILA SOBRAL  DO NASCIMENTO','0','','','','','RUA GUILHERME JORGE PAES BARRETO N 1062','centro','igarassu','Feminino','','JOSE WILTON DO NASCIMENTO','FLAVIA SOBRAL GONÇALVES','','','','29/07/2005','Figurinista','','','FLAVIA SOBRAL GONÇALVES','','','','10')
+            
+
+        2019-04-12 02:46:02	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('', 'SIM', '434', 'C' )
+            
+
+        2019-04-12 02:47:55	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('VINICIUS SOBRAL DO NASCIMENTO','0','','','','','RUA GUILHERME JORGE PAES BARRETO N 1062','','igarassu','Masculino','','JOSE WILTON DO NASCIMENTO','FLAVIA SOBRAL GONÇALVES','','','','13/04/2008-','Figurinista','','','FLAVIA SOBRAL GONÇALVES','','','','14')
+            
+
+        2019-04-12 02:47:55	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '435', 'C' )
+            
+
+        2019-04-14 16:03:19	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '175', 'C' )
+            
+
+        2019-04-14 16:38:25	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('André Henrique de Moura  Falcão','0','','971160463','','Ensino médio','Rua do Manancial','centro','Igarasssu','Masculino','','','','','','','','Produção','113.370.044-64','8702616','','','','','')
+            
+
+        2019-04-14 16:38:25	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '436', 'C' )
+            
+
+        2019-04-14 16:40:25	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('436','thumbnail_1555252766.jpg','P','')
+            
+
+        2019-04-14 17:02:45	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '64', 'C' )
+            
+
+        2019-04-14 17:15:01	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '251', 'C' )
+            
+
+        2019-04-14 17:16:46	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '56', 'C' )
+            
+
+        2019-04-14 18:07:21	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('Maria Anunciada Barista da Silva','0','','971160463','','','Rua do Manancial ','centro','Igarasssu','Feminino','','','','','','',' 21/03/1995','Ator','017.478.894-07','8907064','','','','','')
+            
+
+        2019-04-14 18:07:21	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '437', 'C' )
+            
+
+        2019-04-14 22:05:58	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('antonio camilo da silva','0','','','','Ensino médio','Rua Bigodonio P da Silva Fonceca, 4','centro','Igarasssu','Masculino','','','','','','','10/02/1966','Ator','086.461.488-82','1681500 SSP/PE','','','','','')
+            
+
+        2019-04-14 22:05:58	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '438', 'C' )
+            
+
+        2019-04-14 22:18:41	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('antonio camilo da silva','0','','','','Ensino médio','Rua Bigodonio P da Silva Fonceca, 4','centro','Igarasssu','Masculino','','','','','','','10/02/1966','Ator','086.461.488-82','1681500 SSP/PE','','','','','')
+            
+
+        2019-04-14 22:18:41	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '439', 'C' )
+            
+
+        2019-04-14 22:20:04	
+        DELETE FROM colaborador WHERE id = 439
+            
+
+        2019-04-14 22:22:04	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('438','thumbnail_1555252825.jpg','P','')
+            
+
+        2019-04-14 22:54:38	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('jeanny karla de  araujo  flor','0','','','','','','','Igarasssu','Feminino','','','','','','','07/07/1986','Ator','','7383199 sds/pe','','','','','')
+            
+
+        2019-04-14 22:54:38	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '440', 'C' )
+            
+
+        2019-04-14 22:55:57	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('440','thumbnail_1555273325.jpg','P','')
+            
+
+        2019-04-14 23:03:12	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('vitor luiz da silva','0','','987231943','','Ensino médio','','','Igarasssu','Masculino','','','','','','','16/11/2000','Ator','157.626.844-66','10.768.166','','','','','')
+            
+
+        2019-04-14 23:03:12	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '441', 'C' )
+            
+
+        2019-04-14 23:21:14	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('thiogo bernado da  trindade  leite silva','0','','','','','','','Igarasssu','Masculino','','','','','','','14/08/2015','Ator','','','izabel cristina ','3298319 sds pe','561.234.504-68','','')
+            
+
+        2019-04-14 23:21:14	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '442', 'C' )
+            
+
+        2019-04-14 23:29:05	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '34', 'C' )
+            
+
+        2019-04-15 00:44:11	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('jose  altones de souzas junior ','0','','','981803458','','av engenhode  souuza junior','pau de ferro zona rural ','Igarasssu','Masculino','','JOSE  ALTONES DE SOUZAS  ','elaneide  maria da silva de oliveira','','','','24/10/1999','Figurinista','104.000.474-11','37777041','','','','','19')
+            
+
+        2019-04-15 00:44:11	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '443', 'C' )
+            
+
+        2019-04-15 23:54:43	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('gabriel rabelo de andrade ','0','','','','','','','igarassu','Masculino','','gilberto  rabelo de andrade','maria joserabelo','','','','30/09/2017','Figurinista','715.940.994-99','10684929','','','','','16')
+            
+
+        2019-04-15 23:54:43	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '444', 'C' )
+            
+
+        2019-04-16 00:00:57	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('klesor paulino santana numes','0','','','','','','','igarassu','Masculino','','josemar de santana numes','luciana paulino da silva','','','','05/08/2005','Assistente de Direção','','','LUCIANA PAULINO DA SILVA','','','','14')
+            
+
+        2019-04-16 00:00:57	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '445', 'C' )
+            
+
+        2019-04-16 00:07:00	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('jose carlos alves pereira','0','','','','','lo residencial tropical 22 qd ','agmenor magalhaes ','igarassu','Masculino','','','antonia alves pereira','assistente de cenografia','','','08/09/1976','Assistente de Produção','036.175.074-92','6372725','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 00:07:00	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '446', 'C' )
+            
+
+        2019-04-16 00:13:08	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('enne david de souza viera','0','','','996704523','','rua jamaica 89 a','centro','igarassu','Masculino','','eduardo viera da silva','DENISE cristina de souza viera','','','','08/04/1997','Figurinista','','','','','','','22')
+            
+
+        2019-04-16 00:13:08	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '447', 'C' )
+            
+
+        2019-04-16 00:17:42	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ana paula  oliveira dos santos','0','','','','','','centro','igarassu','Feminino','','amaro jose dos santos ','doralice de oliveira  souza','','','','12/09/1979','Assistente de Direção','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 00:17:42	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '448', 'C' )
+            
+
+        2019-04-16 00:22:28	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('iago cristian leite silva','0','','','','','rua juripiranga 48 b rendecial  ouro verde','centro','igarassu','Masculino','','arcos antonio silva','izabel cristina leite','assistecia de cenografia','','','31/01/1992','Assistente de Produção','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 00:22:28	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '449', 'C' )
+            
+
+        2019-04-16 00:25:04	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '226', 'C' )
+            
+
+        2019-04-16 00:27:07	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '169', 'C' )
+            
+
+        2019-04-16 00:31:28	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '236', 'C' )
+            
+
+        2019-04-16 00:42:15	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '238', 'C' )
+            
+
+        2019-04-16 00:45:20	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','PENDENTE', '281', 'C' )
+            
+
+        2019-04-16 00:47:30	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('JOSE EDSON C.O  JUNIOR','0','','','','','','','igarassu','Masculino','','JOSE EDSON CLEMENTINO DE OLIVEIRA','MARIA DOS PRAZERES DA SIIVA','','','','03/11/1993','Figurinista','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 00:47:31	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '450', 'C' )
+            
+
+        2019-04-16 00:52:33	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('EDMILLE CAUENE SOBRAL DOS SANTOS','0','','','','','','','igarassu','Feminino','','CHARLES RODOLFO SOBRAL DA SILVA','EDIVALDA DOS SANTOS MENEZES','','','','16/06/2012','Figurinista','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 00:52:33	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'PENDENTE', '451', 'C' )
+            
+
+        2019-04-16 00:56:22	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('MARCELO QUEIROZ DE LIMA','0','','','','','','','igarassu','Masculino','','MARCOS QUEIROZ DE LIMA','LINDINEIDE FERREIRA DE LIMA','','','','13/11/1998','Assistente de Direção','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 00:56:22	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '452', 'C' )
+            
+
+        2019-04-16 00:58:06	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','NAO', '255', 'C' )
+            
+
+        2019-04-16 01:22:19	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('karla flavia alves da silva','0','','','','','rua maria do rosario 101','centro','igarassu','Feminino','','','willancarla alves  da silva','','','','13/07/2004','Figurinista','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 01:22:19	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '453', 'C' )
+            
+
+        2019-04-16 01:29:24	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('vitor luiz da silva','0','','','98723 1943','','','','igarassu','Masculino','','sebastiao luiz da silva ','maria das dores  gomes da silva','','','','16/11/2000','Figurinista','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 01:29:24	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'PENDENTE', '454', 'C' )
+            
+
+        2019-04-16 01:34:10	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('rubens clayton joaquin dos santos','0','','','99749 8646','','joao alves bereguer 37','centro','igarassu','Masculino','','manoel joaquin dos santos ','maria silvia teixeira dos santos','','','','14/01/1985','Ator','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 01:34:10	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '455', 'C' )
+            
+
+        2019-04-16 01:35:42	
+        DELETE FROM colaborador WHERE id = 426
+            
+
+        2019-04-16 01:39:16	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ana paula da cruz martis damacena','0','','','','','','','igarassu','Feminino','','jose fernando da cruz martins','lindalva ma ria da conceicao','','','','09/11/1984','Figurinista','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-16 01:39:16	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'PENDENTE', '456', 'C' )
+            
+
+        2019-04-16 01:59:24	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','PENDENTE', '434', 'C' )
+            
+
+        2019-04-16 03:22:42	
+        DELETE FROM colaborador WHERE id = 412
+            
+
+        2019-04-17 03:39:01	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('EDUARDO TOMAZ RODRIGUES DA SILVA','0','','94024552','','','BECO DA FRATERNIDADE','CENTRO','Igarasssu','Masculino','','','','','','','05/10/1999','Ator','128.538.554-30','10012495','','','','','')
+            
+
+        2019-04-17 03:39:01	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '457', 'C' )
+            
+
+        2019-04-17 04:22:49	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('MARIA APARECIDA DE ALBUQUERQUE','0','','','','Ensino médio','AV. MAL HERNES DA FONSECA,300','CENTRO','Igarasssu','Masculino','','','','','','','05/05/1966','Ator','475.947.214-20','3153421','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-17 04:22:49	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '458', 'C' )
+            
+
+        2019-04-17 04:25:20	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('LUIZ CARLOS DA SILVA','0','','','','','RUA JAPAO, 2','agamenon magalhaes','Igarasssu','Masculino','','','','','','','30/09/1996','Ator','709.823.354-40','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-17 04:25:20	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '459', 'C' )
+            
+
+        2019-04-17 06:52:47	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('436','thumbnail_1555476684.jpg','P','')
+            
+
+        2019-04-17 06:54:52	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('385','thumbnail_1555476767.jpg','P','')
+            
+
+        2019-04-17 06:56:44	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('407','thumbnail_1555476892.jpg','P','')
+            
+
+        2019-04-17 06:58:48	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('400','thumbnail_1555477004.jpg','P','')
+            
+
+        2019-04-17 06:59:40	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('361','thumbnail_1555477128.jpg','P','')
+            
+
+        2019-04-17 07:02:54	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('408','thumbnail_1555477180.jpg','P','')
+            
+
+        2019-04-17 07:04:20	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('413','thumbnail_1555477374.jpg','P','')
+            
+
+        2019-04-17 07:05:54	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('403','thumbnail_1555477460.jpg','P','')
+            
+
+        2019-04-17 07:06:38	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('402','thumbnail_1555477554.jpg','P','')
+            
+
+        2019-04-17 07:07:14	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('409','thumbnail_1555477598.jpg','P','')
+            
+
+        2019-04-17 07:07:52	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('410','thumbnail_1555477634.jpg','P','')
+            
+
+        2019-04-17 07:08:47	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('401','thumbnail_1555477672.jpg','P','')
+            
+
+        2019-04-17 07:09:47	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('404','thumbnail_1555477727.jpg','P','')
+            
+
+        2019-04-17 07:10:32	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('406','thumbnail_1555477787.jpg','P','')
+            
+
+        2019-04-17 07:11:26	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('405','thumbnail_1555477832.jpg','P','')
+            
+
+        2019-04-17 07:12:29	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('56','thumbnail_1555477886.jpg','P','')
+            
+
+        2019-04-17 07:13:03	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('433','thumbnail_1555477949.jpg','P','')
+            
+
+        2019-04-17 07:13:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('411','thumbnail_1555477983.jpg','P','')
+            
+
+        2019-04-17 07:14:24	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('416','thumbnail_1555478029.jpg','P','')
+            
+
+        2019-04-17 07:15:06	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('415','thumbnail_1555478064.jpg','P','')
+            
+
+        2019-04-17 07:16:09	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('428','thumbnail_1555478106.jpg','P','')
+            
+
+        2019-04-17 07:16:55	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('425','thumbnail_1555478169.jpg','P','')
+            
+
+        2019-04-17 07:17:45	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('430','thumbnail_1555478215.jpg','P','')
+            
+
+        2019-04-17 07:18:32	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('423','thumbnail_1555478265.jpg','P','')
+            
+
+        2019-04-17 07:19:10	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('432','thumbnail_1555478312.jpg','P','')
+            
+
+        2019-04-17 07:20:33	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('443','thumbnail_1555478350.jpg','P','')
+            
+
+        2019-04-17 07:22:01	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('443','thumbnail_1555478433.jpg','P','')
+            
+
+        2019-04-17 07:24:04	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('431','thumbnail_1555478521.jpg','P','')
+            
+
+        2019-04-17 07:25:37	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('421','thumbnail_1555478644.jpg','P','')
+            
+
+        2019-04-17 07:26:46	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('429','thumbnail_1555478737.jpg','P','')
+            
+
+        2019-04-17 07:29:14	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('315','thumbnail_1555478806.jpg','P','')
+            
+
+        2019-04-17 07:30:01	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('444','thumbnail_1555478954.jpg','P','')
+            
+
+        2019-04-17 07:31:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('427','thumbnail_1555479001.jpg','P','')
+            
+
+        2019-04-17 07:32:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('454','thumbnail_1555479079.jpg','P','')
+            
+
+        2019-04-17 07:33:44	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('308','thumbnail_1555479139.jpg','P','')
+            
+
+        2019-04-17 07:34:13	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('435','thumbnail_1555479224.jpg','P','')
+            
+
+        2019-04-17 07:35:10	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('450','thumbnail_1555479253.jpg','P','')
+            
+
+        2019-04-17 07:35:51	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('434','thumbnail_1555479310.jpg','P','')
+            
+
+        2019-04-17 07:36:56	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('455','thumbnail_1555479351.jpg','P','')
+            
+
+        2019-04-17 07:37:33	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('445','thumbnail_1555479416.jpg','P','')
+            
+
+        2019-04-17 07:38:17	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('452','thumbnail_1555479453.jpg','P','')
+            
+
+        2019-04-17 07:39:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('448','thumbnail_1555479497.jpg','P','')
+            
+
+        2019-04-17 07:39:51	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('457','thumbnail_1555479552.jpg','P','')
+            
+
+        2019-04-17 07:42:29	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('422','thumbnail_1555479591.jpg','P','')
+            
+
+        2019-04-17 07:44:03	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('222','thumbnail_1555479749.jpg','P','')
+            
+
+        2019-04-17 07:47:38	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('441','thumbnail_1555479843.jpg','P','')
+            
+
+        2019-04-18 00:12:01	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '196', 'C' )
+            
+
+        2019-04-18 00:59:37	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '247', 'C' )
+            
+
+        2019-04-18 17:44:41	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('simone maria da silva','0','','','','Ensino médio','','','Igarasssu','Feminino','','julio ursilino da silva','angela maria de oliveira','','','','24/09/2009','Ator','665.362.744-07','6847678','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 17:44:42	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '460', 'C' )
+            
+
+        2019-04-18 17:47:03	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('joao paulo miguel de lira','0','','','','','','','Igarasssu','Masculino','','joao miguel de lira','joana luminata da conceição lira','','','','25/11/1984','Ator','070.389.894-99','6314199','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 17:47:03	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '461', 'C' )
+            
+
+        2019-04-18 17:49:58	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('cristiano flor da silva','0','','','','','Rua Nova  Olinda, 6','sitio dos marcos','Igarasssu','Masculino','','cicero flor da silva','maria rosiene da silva','','','','06/05/1994','Ator','091.115.344-60','22345110-03 ssp bh','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 17:49:58	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '462', 'C' )
+            
+
+        2019-04-18 18:19:39	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('sandro fernandes da silva','0','','','','Ensino médio','rua rui barbosa, 30a','centro','Igarasssu','Masculino','','joaquim fernandes da silva','severina maria da conceição','','','','02/03/1988','Ator','087.827.714-65','7396582','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 18:19:39	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '463', 'C' )
+            
+
+        2019-04-18 18:41:20	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('antonio jose gouveia da silva','0','','','','','','','Igarasssu','Masculino','','manoel aprigio da silva','maria da conceição gouveia da silva','','','','21/11/1968','Ator','658.894.874-34','3327467','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 18:41:20	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '464', 'C' )
+            
+
+        2019-04-18 19:37:39	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('antonio jose gouveia da silva','0','','','','','','','Igarasssu','Masculino','','manoel aprigio da silva','maria da conceição gouveia da silva','','','','21/11/1968','Ator','658.894.874-34','3327467','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 19:37:40	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '465', 'C' )
+            
+
+        2019-04-18 19:55:13	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('carlos henrique  da silva afonso','0','','','81 9 86008419','','rua maria do Carmo afonso','','Igarasssu','Masculino','','CARLOS JOSE AFONSO','','','','','27/07/2006','','','','EDNA BATISTA DA SILVA','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 19:55:13	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'PENDENTE', '466', 'C' )
+            
+
+        2019-04-18 20:00:35	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('MIKAEL ARTUR DA SILVA ','0','','','','','','','Igarasssu','Masculino','','ANEIAS ARTUR DA SILVA','','','','','29/10/2004','','','10486707','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 20:00:35	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'PENDENTE', '467', 'C' )
+            
+
+        2019-04-18 20:10:25	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('ESTEFANE APARECIDA SOARES FERREIRA','0','','','','','','','','Masculino','','ELIAS VICENTE FERREIRA','','','','','19/06/2002','','492.586.078-05','509340660','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-18 20:10:25	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'PENDENTE', '468', 'C' )
+            
+
+        2019-04-20 00:19:56	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '315', 'C' )
+            
+
+        2019-04-20 01:13:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('442','thumbnail_1555715429.jpg','P','')
+            
+
+        2019-04-20 01:32:45	
+        DELETE FROM colaborador WHERE id = 304
+            
+
+        2019-04-20 18:32:34	
+        DELETE FROM colaborador WHERE id = 465
+            
+
+        2019-04-20 20:10:06	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('KASSIA MILENA DA SILVA ZACARIAS','0','','','','','','','Igarasssu','Feminino','','','','','','','10/04/2000','Ator','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-20 20:10:06	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '469', 'C' )
+            
+
+        2019-04-20 20:16:25	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('amara maria de oliveira','0','','','','','','','Igarasssu','Feminino','','','','','','','02/08/1965','Ator','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-20 20:16:25	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '470', 'C' )
+            
+
+        2019-04-20 20:53:31	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('WELLIDA TAINA OLIVEIRA SILVA','0','','','','','','','Igarasssu','Masculino','','SEVERUBI NABIEK DA SUKVA','JOSEFA ADRIANA ALMEIDA DE OLIVEIRA','','','','14/12/1998','Ator','127.338.664-78','10.519.435','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-20 20:53:31	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '471', 'C' )
+            
+
+        2019-04-21 06:01:27	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('gerdany michele pessoa de lima','0','','','','Ensino médio','','','itapissuma','Feminino','','','','','','','18/05/1992','Ator','201.994.156-46','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-21 06:01:28	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '472', 'C' )
+            
+
+        2019-04-21 18:17:58	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('472','thumbnail_1555715600.jpg','P','')
+            
+
+        2019-04-21 18:20:45	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('severino amaro gomes','0','','','','','','','Igarasssu','Masculino','','','','home que trouxe o burrinho','','','05/08/1968','Ator','','3.265.224 sds pe','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-21 18:20:46	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '473', 'C' )
+            
+
+        2019-04-21 18:23:44	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('471','thumbnail_1555863478.jpg','P','')
+            
+
+        2019-04-21 18:24:15	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('255','thumbnail_1555863824.jpg','P','')
+            
+
+        2019-04-21 18:26:18	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('473','thumbnail_1555863855.jpg','P','')
+            
+
+        2019-04-21 18:26:57	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('473','thumbnail_1555863978.jpg','D')
+            
+
+        2019-04-21 18:27:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('473','thumbnail_1555864017.jpg','D')
+            
+
+        2019-04-21 18:29:32	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('469','thumbnail_1555864039.jpg','P','')
+            
+
+        2019-04-21 18:30:20	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('466','thumbnail_1555864172.jpg','P','')
+            
+
+        2019-04-21 18:31:15	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('463','thumbnail_1555864220.jpg','P','')
+            
+
+        2019-04-21 18:36:47	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('461','thumbnail_1555864275.jpg','P','')
+            
+
+        2019-04-21 18:37:37	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('460','thumbnail_1555864607.jpg','P','')
+            
+
+        2019-04-21 19:05:23	
+        INSERT INTO colaborador (nome,idade,email,telefone,celular,serie,endereco,bairro,cidade,sexo,cache,pai,mae,comentario,experiencia,grupo,nascimento,funcao,cpf,rg,responsavel,responsavelrg,responsavelcpf,link_video,cep) VALUES ('KEVYN','0','','','','','','','Igarasssu','Masculino','','','','','','','15/12/1967','Ator','','','','','','','<br /><b>Notice</b>:  Undefined offset: 2 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>162</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>166</b><br /><br /><b>Notice</b>:  Undefined offset: 1 in <b>D:\xampp\htdocs\paixaodecristo2\projeto\form_colaborador.php</b> on line <b>169</b><br />2018')
+            
+
+        2019-04-21 19:05:23	
+        INSERT INTO ano_projeto (ano, situacao, id_colaborador, tipo) VALUES ('2019', 'SIM', '474', 'C' )
+            
+
+        2019-04-21 19:13:26	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('474','thumbnail_1555864657.jpg','P','')
+            
+
+        2019-04-21 19:19:41	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('359','thumbnail_1555866806.jpg','D')
+            
+
+        2019-04-21 19:20:01	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('359','thumbnail_1555867181.jpg','D')
+            
+
+        2019-04-21 19:20:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('359','thumbnail_1555867201.jpg','D')
+            
+
+        2019-04-21 19:20:35	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('359','thumbnail_1555867219.jpg','D')
+            
+
+        2019-04-21 19:20:52	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('359','thumbnail_1555867235.jpg','D')
+            
+
+        2019-04-22 05:34:52	
+        INSERT INTO ano_projeto (ano,situacao, id_colaborador, tipo) VALUES ('2019','SIM', '161', 'C' )
+            
+
+        2019-04-22 08:45:19	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('347','thumbnail_1555915463.jpg','P','')
+            
+
+        2019-04-22 08:47:44	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('337','thumbnail_1555915519.jpg','P','')
+            
+
+        2019-04-22 15:36:37	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('447','thumbnail_1555915664.jpg','P','')
+            
+
+        2019-04-23 07:05:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('0','thumbnail_1555915664.jpg','P','')
+            
+
+        2019-04-24 01:10:35	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('446','thumbnail_1555940197.jpg','P','')
+            
+
+        2019-04-24 01:11:18	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('458','thumbnail_1556061035.jpg','P','')
+            
+
+        2019-04-24 02:22:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('467','thumbnail_1556061078.jpg','P','')
+            
+
+        2019-04-24 02:57:13	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('248','thumbnail_1556065369.jpg','D')
+            
+
+        2019-04-28 05:53:35	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('90','thumbnail_1556423558.jpg','D')
+            
+
+        2019-04-28 05:54:10	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('90','thumbnail_1556423611.jpg','D')
+            
+
+        2019-04-28 05:54:56	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('83','thumbnail_1556423650.jpg','D')
+            
+
+        2019-04-28 05:55:49	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('472','thumbnail_1556423696.jpg','D')
+            
+
+        2019-04-28 05:57:01	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('247','thumbnail_1556423749.jpg','D')
+            
+
+        2019-04-28 06:03:24	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('380','thumbnail_1556423821.jpg','D')
+            
+
+        2019-04-28 06:04:04	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('57','thumbnail_1556424204.jpg','D')
+            
+
+        2019-04-28 06:04:26	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('57','thumbnail_1556424244.jpg','D')
+            
+
+        2019-04-28 06:05:15	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('4','thumbnail_1556424266.jpg','D')
+            
+
+        2019-04-28 06:05:40	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('4','thumbnail_1556424315.jpg','D')
+            
+
+        2019-04-28 06:06:56	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('316','thumbnail_1556424340.jpg','D')
+            
+
+        2019-04-28 06:07:58	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('72','thumbnail_1556424416.jpg','D')
+            
+
+        2019-04-28 06:23:39	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('345','thumbnail_1556424478.jpg','D')
+            
+
+        2019-04-28 06:27:03	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo) VALUES ('345','thumbnail_1556425419.jpg','D')
+            
+
+        2019-05-05 03:14:06	
+        DELETE FROM evento WHERE id = 9
+            
+
+        2019-05-05 03:18:04	
+        DELETE FROM evento WHERE 10 = 
+            
+
+        2019-05-05 03:18:13	
+        DELETE FROM evento WHERE 10 = 
+            
+
+        2019-05-05 03:18:15	
+        DELETE FROM evento WHERE 10 = 
+            
+
+        2019-05-05 03:21:27	
+        DELETE FROM evento WHERE id = 10
+            
+
+        2019-05-05 03:23:05	
+        DELETE FROM evento WHERE id = 13
+            
+
+        2019-05-05 04:18:46	
+        DELETE FROM evento WHERE id = 14
+            
+
+        2019-05-05 04:20:05	
+        DELETE FROM evento WHERE id = 12
+            
+
+        2019-05-05 04:21:31	
+        DELETE FROM evento WHERE id = 16
+            
+
+        2019-05-05 04:22:01	
+        DELETE FROM evento WHERE id = 11
+            
+
+        2019-05-05 06:21:28	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('389','thumbnail_1557029986.jpg','P','')
+            
+
+        2019-05-05 18:47:02	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('468','thumbnail_1557030089.jpg','P','')
+            
+
+        2019-05-12 18:10:54	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('345','201905121810530.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-05-12 18:12:10	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('345','thumbnail_201905121812090.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-05-12 18:12:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('345','thumbnail_201905121812091.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-22 02:22:03	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('351','thumbnail_201906220222010.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-22 02:29:28	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('351','thumbnail_201906220229250.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-22 02:43:57	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('351','thumbnail_201906220243540.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-22 02:44:38	
+        DELETE FROM foto_colaborador WHERE idano = 750
+            
+
+        2019-06-22 02:46:14	
+        DELETE FROM foto_colaborador WHERE idano = 751
+            
+
+        2019-06-22 15:11:53	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('464','thumbnail_1561209022.jpg','P','')
+            
+
+        2019-06-22 15:14:13	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('196','thumbnail_1561209113.jpg','P','')
+            
+
+        2019-06-22 15:14:51	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('449','thumbnail_1561209253.jpg','P','')
+            
+
+        2019-06-22 15:15:34	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('424','thumbnail_1561209291.jpg','P','')
+            
+
+        2019-06-22 15:16:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('459','thumbnail_1561209334.jpg','P','')
+            
+
+        2019-06-24 17:59:13	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('258','thumbnail_201906241759110.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 18:00:37	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('258','thumbnail_201906241800330.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 18:00:52	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('258','thumbnail_201906241800470.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 18:01:00	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('258','thumbnail_201906241800570.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 19:53:58	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('258','2019/thumbnail_1561209372.jpg','P','')
+            
+
+        2019-06-24 19:58:19	
+        DELETE FROM foto_colaborador WHERE idano = 762
+            
+
+        2019-06-24 19:58:39	
+        DELETE FROM foto_colaborador WHERE idano = 762
+            
+
+        2019-06-24 19:58:46	
+        DELETE FROM foto_colaborador WHERE idano = 762
+            
+
+        2019-06-24 19:58:56	
+        DELETE FROM foto_colaborador WHERE idano = 762
+            
+
+        2019-06-24 20:01:06	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('258','2019/thumbnail_1561398838.jpg','P','')
+            
+
+        2019-06-24 20:03:03	
+        DELETE FROM foto_colaborador WHERE idano = 763
+            
+
+        2019-06-24 20:04:11	
+        DELETE FROM foto_colaborador WHERE idano = 762
+            
+
+        2019-06-24 20:06:29	
+        DELETE FROM foto_colaborador WHERE id = 763
+            
+
+        2019-06-24 20:07:48	
+        DELETE FROM foto_colaborador WHERE id = 763
+            
+
+        2019-06-24 20:08:38	
+        DELETE FROM foto_colaborador WHERE id = 762
+            
+
+        2019-06-24 20:12:14	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('427','2019/thumbnail_201906242012100.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:12:18	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('427','2019/thumbnail_201906242012101.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:13:41	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('427','2019/thumbnail_201906242013390.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:17:48	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('427','2019/thumbnail_201906242017440.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:17:58	
+        DELETE FROM foto_colaborador WHERE id = 765
+            
+
+        2019-06-24 20:20:01	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('406','2019/thumbnail_201906242019580.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:20:25	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('406','2019/thumbnail_201906242020200.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:20:31	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('406','2019/thumbnail_201906242020280.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:21:09	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('406','2019/thumbnail_201906242021050.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:23:11	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('429','2019/thumbnail_201906242023090.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:23:23	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('429','2019/thumbnail_201906242023200.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:23:30	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('429','2019/thumbnail_201906242023260.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:23:35	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('429','2019/thumbnail_201906242023310.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:26:06	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('448','2019/thumbnail_201906242026030.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:26:12	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('448','2019/thumbnail_201906242026070.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 20:26:26	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('448','2019/thumbnail_201906242026230.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 23:08:24	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('316','2019/thumbnail_201906242308190.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 23:08:29	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('316','2019/thumbnail_201906242308240.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 23:08:44	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('316','2019/thumbnail_201906242308400.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-24 23:08:50	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('316','2019/thumbnail_201906242308450.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-26 04:23:44	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('400','2019/thumbnail_201906260423410.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-30 18:30:40	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('392','2019/thumbnail_201906301830370.jpg','D', 'Documentacao digitalizada')
+            
+
+        2019-06-30 18:30:40	
+        INSERT INTO foto_colaborador (id_colaborador,foto,tipo,descricao) VALUES ('392','2019/thumbnail_201906301830340.jpg','D', 'Documentacao digitalizada')
